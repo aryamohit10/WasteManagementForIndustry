@@ -1,1 +1,1 @@
-# WasteManagementForIndustry
+# Waste Management For Industry
