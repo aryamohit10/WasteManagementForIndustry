@@ -1,1 +1,1 @@
-# Waste Management For Industry
+#Industry Waste Control & Management
